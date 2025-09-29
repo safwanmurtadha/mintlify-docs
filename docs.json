@@ -25,7 +25,7 @@
             "group": "Customization",
             "pages": [
               "essentials/settings",
-              "essentials/navigation"
+              "essentials/navigation","getting-started-framer"
             ]
           },
           {
